@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/bsarabinoc/13MBID-ABR2627-AP1.dvc
